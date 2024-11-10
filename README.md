@@ -1,4 +1,4 @@
-# VannillaJs-Projects
+# VanillaJs-Projects
 All the projects I have worked on using Vanilla Js.
 
 # 1. Weather Website
