@@ -1,11 +1,9 @@
 # Mini-Projects
-All the projects I have worked on as practice 
+All the projects I have worked on as practice. All of these are made using Vanilla Js.
 
 # 1. Weather Website
 Weather forecasting website that displays realtime weather condition of any city in the world
 
-## Images
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+# 2. Drum Kit 
+A Drum Kit website that lets you play your favourite beats through your keyboard.
 
