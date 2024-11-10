@@ -1,5 +1,5 @@
-# Mini-Projects
-All the projects I have worked on as practice. All of these are made using Vanilla Js.
+# VannillaJs-Projects
+All the projects I have worked on using Vanilla Js.
 
 # 1. Weather Website
 Weather forecasting website that displays realtime weather condition of any city in the world
