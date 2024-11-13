@@ -4,7 +4,7 @@ const msg = document.querySelector(".msg");
 const list = document.querySelector(".ajax-section .cities");
 
 //API Key
-const apiKey = "be042ac94d764ba38d8142205240210";
+const apiKey ={key} ;
 
 form.addEventListener("submit", (e) => {
   e.preventDefault();
